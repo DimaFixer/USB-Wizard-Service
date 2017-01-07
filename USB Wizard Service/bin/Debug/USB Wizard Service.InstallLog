@@ -1,0 +1,115 @@
+﻿Выполняется установка сборки 'C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Устанавливается служба USB Wizard Service...
+Создается исходный EventLog USB Wizard Service в журнале Application...
+Выполняется откат для сборки 'C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Восстанавливается исходное состояние журнала событий для источника USB Wizard Service.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Устанавливается служба USB Wizard Service...
+Служба USB Wizard Service успешно установлена.
+Создается исходный EventLog USB Wizard Service в журнале Application...
+Выполняется фиксация сборки 'c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Выполняется установка сборки 'c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Устанавливается служба USB Wizard Service...
+Создается исходный EventLog USB Wizard Service в журнале Application...
+Выполняется откат для сборки 'c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Восстанавливается исходное состояние журнала событий для источника USB Wizard Service.
+Выполняется удаление сборки 'c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Выполняется удаление источника EventLog USB Wizard Service.
+Выполняется удаление службы USB Wizard Service из системы...
+Служба USB Wizard Service успешно удалена из системы.
+Выполняется установка сборки 'c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Устанавливается служба USB Wizard Service...
+Служба USB Wizard Service успешно установлена.
+Создается исходный EventLog USB Wizard Service в журнале Application...
+Выполняется фиксация сборки 'c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Выполняется удаление сборки 'c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = c:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Выполняется удаление источника EventLog USB Wizard Service.
+Выполняется удаление службы USB Wizard Service из системы...
+Служба USB Wizard Service успешно удалена из системы.
+Попытка останова службы USB Wizard Service.
+Выполняется установка сборки 'C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Устанавливается служба USB Wizard Service...
+Служба USB Wizard Service успешно установлена.
+Создается исходный EventLog USB Wizard Service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Выполняется удаление сборки 'C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Выполняется удаление источника EventLog USB Wizard Service.
+Выполняется удаление службы USB Wizard Service из системы...
+Служба USB Wizard Service успешно удалена из системы.
+Попытка останова службы USB Wizard Service.
+Выполняется установка сборки 'C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Устанавливается служба USB Wizard Service...
+Служба USB Wizard Service успешно установлена.
+Создается исходный EventLog USB Wizard Service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Выполняется удаление сборки 'C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.InstallLog
+   assemblypath = C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+Выполняется удаление источника EventLog USB Wizard Service.
+Выполняется удаление службы USB Wizard Service из системы...
+Служба USB Wizard Service успешно удалена из системы.

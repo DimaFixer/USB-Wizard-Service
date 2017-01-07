@@ -1,0 +1,8 @@
+C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe.config
+C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.exe
+C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\bin\Debug\USB Wizard Service.pdb
+C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\obj\Debug\USB Wizard Service.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\obj\Debug\USB_Wizard_Service.ProjectInstaller.resources
+C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\obj\Debug\USB Wizard Service.csproj.GenerateResource.Cache
+C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\obj\Debug\USB Wizard Service.exe
+C:\Users\Dmitriy FiXeR\Documents\Visual Studio 2015\Projects\USB Wizard Service\USB Wizard Service\obj\Debug\USB Wizard Service.pdb
